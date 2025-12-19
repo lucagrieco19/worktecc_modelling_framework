@@ -1,3 +1,0 @@
-test_distr
-test_pack
-test_team
